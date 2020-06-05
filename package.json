@@ -6,7 +6,7 @@
 		"async": "^3.2.0",
 		"bearcat-buffer": "0.1.x",
 		"crc": "3.8.0",
-		"mqtt": "^4.1.0",
+		"mqtt": "^3.0.0",
 		"mqtt-connection": "4.0.0",
 		"node-uuid": "1.4.8",
 		"pomelo-loader": "0.0.7",
