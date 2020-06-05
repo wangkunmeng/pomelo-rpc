@@ -1,3 +1,10 @@
+====update================
+
+
+stream.setNoDelay(true);
+
+
+
 #pomelo-rpc - rpc framework for pomelo
 
 pomelo-rpc is the low level RPC framework for pomelo project. It contains two parts: client and server.
