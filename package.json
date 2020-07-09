@@ -1,6 +1,6 @@
 {
 	"name": "pomelo-rpc",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"dependencies": {
 		"aedes": "^0.42.1",
 		"async": "^3.2.0",
@@ -10,7 +10,7 @@
 		"mqtt-connection": "4.0.0",
 		"node-uuid": "1.4.8",
 		"pomelo-loader": "0.0.7",
-		"pomelo-logger": "0.1.7",
+		"pomelo-logger": "git+https://github.com/YunlongJiao-B/pomelo-logger.git",
 		"stream-pkg": "0.0.5"
 	},
 	"devDependencies": {
